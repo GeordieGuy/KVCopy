@@ -1,5 +1,5 @@
 # KVCopy
-KVCopy copies Azure Key Vault secrets between Key Vaults
+KVCopy copies Azure Key Vault secrets between Key Vaults, even if they are in different subscriptions and the key vault backup and restore functionality doesn't work
 
 ## Usage
 
